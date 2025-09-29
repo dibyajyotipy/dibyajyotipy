@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dibyajyoti from this side. An 21 year old tech enthusiastic. I did my BCA from a tier 3 college I dont have any fancy degree, but the thing i did have a spark to learn and impact.<br><br>I enjoy the full analytics workflow from cleaning messy datasets and writing efficient SQL queries to visualizing insights in clear, interactive reports.<br>Iam now looking for Data Analyst role where I can apply these skills, continue learning from experienced professionals, and contribute to data-driven decision making.<br><br>Open to opportunities, collaborations, and mentorship in the field of data analytics.
+I enjoy the full analytics workflow from cleaning messy datasets and writing efficient SQL queries to visualizing insights in clear, interactive reports.<br>Iam now looking for Data Analyst role where I can apply these skills, continue learning from experienced professionals, and contribute to data-driven decision making.<br><br>Open to opportunities, collaborations, and mentorship in the field of data analytics.
 
 
 ## 🌐 Socials:
